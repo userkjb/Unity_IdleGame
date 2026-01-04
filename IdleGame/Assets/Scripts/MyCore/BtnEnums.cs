@@ -2,6 +2,8 @@ using UnityEngine;
 
 public enum BtnType
 {
-    CharacterStats, // дЁ╦╞ем ╫╨ех
-    GymStats,       // ц╪ю╟╟Э ╫╨ех
+    Upgrade,        // Л≈┘Й╥╦К═┬Л²╢К⌠°
+    CharacterStats, // Л╨░К╕╜М└╟ Л┼╓М┐╞
+    GymStats,       // Л╡╢Л°║Й╢─ Л┼╓М┐╞
+    Inventory,      // Л²╦К╡╓М├═К╕╛
 }
